@@ -42,6 +42,10 @@ sh dist_L.sh
 sh dist_H.sh
 ```
 
+## Downstream
+
+For downstream tasks, please refer to [VoCo](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream) for usage.
+
 
 ## Citation
 
