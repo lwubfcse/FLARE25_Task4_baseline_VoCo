@@ -50,7 +50,7 @@ For downstream tasks, please refer to [VoCo](https://github.com/Luffy03/Large-Sc
 
 
 ## Citation
-Please refer to [FLARE25 challenge](https://flare-medfm.github.io/) for citations.
+**Please refer to [FLARE25 challenge](https://flare-medfm.github.io/).**
 
 If you find this repo useful for your research, please consider citing the paper as follows:
 
