@@ -16,6 +16,8 @@ In this way, VoCo implicitly encodes the inherent geometric context into model r
 
 ![framework](assets/framework.png)
 
+## Pre-trained model
+Self-supervised learning: [Google drive](https://github.com/lwubfcse/FLARE25_Task4_baseline_VoCo).
 
 ## Pre-training
 
