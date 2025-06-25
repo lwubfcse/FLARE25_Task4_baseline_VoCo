@@ -19,7 +19,7 @@ In this way, VoCo implicitly encodes the inherent geometric context into model r
 ## Pre-training
 
 ### Pre-trained model
-[Google drive](https://github.com/lwubfcse/FLARE25_Task4_baseline_VoCo).
+[Google drive](https://drive.google.com/file/d/1U2HvC6_8TN71NN83Hoz8e-dPGbO_rtLC/view?usp=drive_link).
 
 ### Download Pre-training Dataset
 
