@@ -27,8 +27,7 @@ The datasets of [FLARE25_Task4](https://huggingface.co/datasets/FLARE-MedFM/FLAR
 ```
 ├── FLARE-Task4-CT-FM
     ├── train_part1
-    ├── train_part2
-    └── val_downstream
+    └── train_part2
 ```
 
 ### Usage
@@ -47,6 +46,10 @@ sh dist_H.sh
 ## Downstream
 
 The implementations of downstream tasks are available at [TASK4_Downstream](https://github.com/lwubfcse/FLARE25_Task4_baseline_VoCo/tree/main/TASK4_Downstream).
+You only need to modify the path of downstream dataset at './data/$dataset_name', and run:
+```bash
+sh train.sh
+```
 
 For details, please refer to [VoCo](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream) for usage.
 
