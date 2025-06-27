@@ -50,8 +50,15 @@ You only need to modify the path of downstream dataset at './data/$dataset_name'
 ```bash
 sh train.sh
 ```
+Checkpoints and training logs as follows:
 
-For details, please refer to [VoCo](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream) for usage.
+| Task               |                                                                                  Checkpoint |                                          Val (Dice/Acc)                                          |
+|:-------------------|--------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| Lung_lesion_seg    | [Model](https://drive.google.com/drive/folders/1-ogVBP3F2LSpdvy8yhakDTGI3C2lwdgR?usp=drive_link) |                                             [60.03](https://drive.google.com/drive/folders/1-ogVBP3F2LSpdvy8yhakDTGI3C2lwdgR?usp=drive_link)                                              |
+| Abdomen_lesion_seg |                                                                                         [Model](https://drive.google.com/drive/folders/1-ogVBP3F2LSpdvy8yhakDTGI3C2lwdgR?usp=drive_link) |                                             [41.99](https://drive.google.com/drive/folders/1-ogVBP3F2LSpdvy8yhakDTGI3C2lwdgR?usp=drive_link)                                              |
+| Abdomen_organ_seg  |                                                                                        [Model](https://drive.google.com/drive/folders/1-ogVBP3F2LSpdvy8yhakDTGI3C2lwdgR?usp=drive_link) | [83.55](https://drive.google.com/drive/folders/1-ogVBP3F2LSpdvy8yhakDTGI3C2lwdgR?usp=drive_link) |
+
+For more details, please refer to [VoCo](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream).
 
 
 ## Citation
