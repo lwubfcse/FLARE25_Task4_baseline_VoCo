@@ -46,7 +46,9 @@ sh dist_H.sh
 
 ## Downstream
 
-For downstream tasks, please refer to [VoCo](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream) for usage.
+The implementations of downstream tasks are available at [TASK4_Downstream](https://github.com/lwubfcse/FLARE25_Task4_baseline_VoCo/tree/main/TASK4_Downstream).
+
+For details, please refer to [VoCo](https://github.com/Luffy03/Large-Scale-Medical/tree/main/Downstream) for usage.
 
 
 ## Citation
